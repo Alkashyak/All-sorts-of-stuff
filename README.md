@@ -2,4 +2,4 @@
 (в планах много всякого-превсякого)
 
 # Leetcode профиль
-|[Alkashyak](https://leetcode.com/u/Alkashyak/) |  |
+[Alkashyak](https://leetcode.com/u/Alkashyak/)   
