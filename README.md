@@ -10,4 +10,4 @@
 
 |[Занятие 1: сложность, тестирования, особые случаи]([https://contest.yandex.ru/contest/52142/problems/](https://contest.yandex.ru/contest/59539/enter/)) |  |
 | --- | :-: |
-| [1. Приближенное значение Пи](./contest_01/01/main.cpp)    | |
+| [A. Покраска деревьев](./yandex5.0/1/A/main.cpp)    | |
