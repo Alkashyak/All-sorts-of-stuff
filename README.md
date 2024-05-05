@@ -15,3 +15,28 @@
 | [C. Форматирование файла](./yandex5.0/1/C/main.cpp)    | |
 | [D. Слоны и ладьи](./yandex5.0/1/D/main.cpp)    | |
 
+|[Занятие 2: Линейный поиск](https://contest.yandex.ru/contest/59540)) |  |
+| --- | :-: |
+| [A. Минимальный прямоугольник](./yandex5.0/2/A/main.cpp)    | |
+| [B. Продавец рыбы](./yandex5.0/2/B/main.cpp)    | |
+| [C. Петя, Маша и верёвочки](./yandex5.0/2/C/main.cpp)    | |
+| [D. Шахматная доска](./yandex5.0/2/D/main.cpp)    | |
+| [E. Амбициозная улитка](./yandex5.0/2/E/main.cpp)    | |
+| [F. Колесо Фортуны](./yandex5.0/2/F/main.cpp)    | |
+| [G. Ни больше ни меньше](./yandex5.0/2/G/main.cpp)    | |
+
+|[Занятие 3: Множества и словари](https://contest.yandex.ru/contest/59541)) |  |
+| --- | :-: |
+| [A. Плейлисты](./yandex5.0/3/A/main.cpp)    | |
+| [B. Анаграмма?](./yandex5.0/3/B/main.cpp)    | |
+| [C. Удаление чисел](./yandex5.0/3/C/main.cpp)    | |
+| [D. Повторяющееся число](./yandex5.0/3/D/main.cpp)    | |
+| [E. Два из трех](./yandex5.0/3/E/main.cpp)    | |
+| [F. Замена слов](./yandex5.0/3/F/main.cpp)    | |
+
+|[Занятие 4: Бинарный поиск](https://contest.yandex.ru/contest/59542)) |  |
+| --- | :-: |
+| [A. Быстрый поиск в массиве](./yandex5.0/4/A/main.cpp)    | |
+| [B. Одномерный морской бой](./yandex5.0/4/B/main.cpp)    | |
+| [C. Саруман](./yandex5.0/4/C/main.cpp)    | |
+| [E. Нумерация дробей](./yandex5.0/4/E/main.cpp)    | |
